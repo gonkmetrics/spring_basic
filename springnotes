@@ -1,0 +1,9 @@
+spring notes:
+
+POJO: no inheritances, just a plain old java object
+
+Aspect Oriented Programming
+
+Dependency Injection
+
+Inversion of Control: Computer pre-makes object and awaits a request
